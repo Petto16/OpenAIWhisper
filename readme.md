@@ -14,7 +14,7 @@ This project allows automatic transcription of the audio file `audio.mp3` into t
 
 ```bash
 git clone https://github.com/MKovacik/OpenAIWhisper.git
-cd whisper-transcriber
+cd OpenAIWhisper
 ```
 
 ### 2️⃣ Create and Activate a Virtual Environment (Recommended)
